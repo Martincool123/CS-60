@@ -1,0 +1,46 @@
+.line {
+    height: 6px;
+    background-color: black;
+    width: 70px ;
+    margin: 40px auto;
+    
+    
+    
+}
+body {
+    text-align: center;
+    
+}
+#apps {
+    width 100%;
+    height: 800px;
+    background-color: crimson;
+    
+    
+    
+    
+    
+}
+
+p {
+font-size: 41px;
+    font-weight: 400;
+
+}
+
+#chatbot {
+    background-color:blueviolet;
+    
+    
+    
+    
+}
+img {
+    transition: transform 0.2s;
+    
+    
+    
+}
+img:hover {
+    transform: scale(.9);
+}
